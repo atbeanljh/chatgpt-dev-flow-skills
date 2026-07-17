@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Requirement"
+  short_description: "Create task folder and draft requirements doc"
+  default_prompt: "Use $task-require to create a new task folder and draft the requirements document for my feature request."

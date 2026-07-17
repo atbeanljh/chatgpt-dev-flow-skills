@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Bug Fix"
+  short_description: "Locate and fix bugs or issues in the project"
+  default_prompt: "Use $task-fix to diagnose and fix a bug or issue in the project."

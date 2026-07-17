@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Design (functional + technical)"
+  short_description: "Draft combined functional and technical design from requirements"
+  default_prompt: "Use $task-design to generate the combined design document (functional + technical) from the task requirements."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Plan & Execute"
+  short_description: "Break down and execute task plan with checkpoints"
+  default_prompt: "Use $task-plan to break the task into subtasks, create a plan, and execute it step by step."

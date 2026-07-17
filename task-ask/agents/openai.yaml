@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Ask"
+  short_description: "Answer questions about the project and generate Q&A records"
+  default_prompt: "Use $task-ask to research and answer a question about the project."
