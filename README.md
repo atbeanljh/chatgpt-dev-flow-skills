@@ -118,7 +118,4 @@ chatgpt-dev-flow-skills/
 
 这些 Skill 是 **Codex 专属**的，依赖 Codex 的 Skill 机制（SKILL.md 元数据装载）。无法在 Cursor、Claude Code、GitHub Copilot 等其他工具中原样使用。
 
-## License
-
-MIT
 
