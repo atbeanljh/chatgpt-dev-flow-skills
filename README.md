@@ -1,4 +1,3 @@
-# chatgpt-dev-flow-skills
 <p align="center">
   <h1 align="center">chatgpt-dev-flow-skills</h1>
   <p align="center">一套完整的 Codex 开发任务工作流 Skill 集合</p>
